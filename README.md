@@ -1,2 +1,3 @@
 # bfadmin
-Administración de Invoices de B&amp;F Company INC
+Administración de Invoices de B&F Company INC
+Funciona en local machine
